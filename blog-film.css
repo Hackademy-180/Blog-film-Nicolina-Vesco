@@ -1,0 +1,28 @@
+
+.nav-bar{
+    height:80px;
+    width: 100%;
+}
+.header-bar{
+    padding:30px;
+}
+.logo-film{
+    width:15%;
+    /* background: red; */
+}
+/* .logo-text{
+    height:100px;
+} */
+.first-section{
+    min-height:100vh;
+}
+.card-1, .card-2, .card-3{
+    padding:10px;
+}
+
+.second-section{
+    min-height: 100vh;
+}
+.img-carousel{
+    height:1000px;
+}
